@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Draidi</h1>
-<h3 align="center">A Flutter developer and backend developer from Palestine</h3>
+<h3 align="center">A Flutter and backend developer from Palestine</h3>
 
 - 💬 Ask me about **Flutter, Django, Python, Dart**
 
