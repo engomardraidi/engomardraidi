@@ -3,6 +3,8 @@
 
 - 💬 Ask me about **Flutter, Django, Python, Dart**
 
+- 📄 Know about my experiences <a href = "https://drive.google.com/file/d/16_roa3mPGW5vOrkQFLq7CQimwNOrN999/view?usp=sharing">Omar Draidi CV</a>**
+
 - 📫 How to reach me **omar.m3z2001@gmail.com**
 
 - ⚡ Fun fact **I thing I am funny**
